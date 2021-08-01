@@ -9,6 +9,8 @@ Firmware source and schematics for the "Hit It!" Eurorack module.
   </tr>  
 </table>
 
+This YouTube video gives a [brief overview](https://youtu.be/IKqNawbhtcc), and this one shows the [pitch CV mode](https://youtu.be/h47teE46W28).
+
 The two encoders on the left let you move a cursor around the LED matrix, and the SET button toggles a connection between a beat (along the top) and a drum sample (down the side).
 
 In "Bar" mode, the bar length is up to 8 beats, and the lit LEDs connect a beat to the instruments to be played on that beat.
